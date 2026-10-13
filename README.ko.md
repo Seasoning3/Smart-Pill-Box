@@ -8,7 +8,7 @@
 ![프로토타입](media/images/prototype.png)
 
 ### 회로도
-![회로도](media/images/circuit_diagram.png)
+<img src="media/images/circuit_diagram.png" width="500" height="1000"/>
 
 ### MATLAB 앱 GUI
 ![일반](media/images/gui_general.png)
